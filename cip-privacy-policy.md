@@ -48,4 +48,4 @@ In order to persist user application data and settings between sessions, all inf
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 Contact Information:
-Email: wanda.nda678@gmail.com
+Email: yongaapps@gmail.com

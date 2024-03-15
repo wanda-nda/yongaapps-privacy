@@ -3,7 +3,7 @@ Privacy Policy
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at Yonga Apps, how Yonga Apps uses it, and what choices you have.
-Yonga Apps built the Compound Interest Planner app as an ad-supported app. This Service is provided by Yonga Apps at no cost and is intended for use as is.
+Yonga Apps built the Wealth Tracker app as an ad-supported app. This Service is provided by Yonga Apps at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use  

@@ -4,14 +4,17 @@ Privacy Policy
 ### Introduction  
 Our privacy policy will help you understand what information we collect at Yonga Apps, how Yonga Apps uses it, and what choices you have.
 Yonga Apps built the Yonga Budget app as an ad-supported app with an option to upgrade to a premium.
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+We do no require you to provide us with any personally identifiable information. All entered information is stored on device storage and not eccessible to us.
 The app does use third party services that may collect information used to identify you.
 Link to the privacy policy of third-party service providers used by the app
 * https://policies.google.com/privacy
 * https://support.google.com/admob/answer/6128543?hl=en
+
+### Device Storage
+In order to persist user application data and settings between sessions, all information entered and saved in the app is stored in the users device and is not shared or transmitted elsewhere. 
 
 ### Cookies
 Cookies are files with small amount of data that are commonly used as anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
@@ -45,9 +48,6 @@ We do not knowingly collect personal identifiable information from children unde
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
-
-### Device Storage
-In order to persist user application data and settings between sessions, all information entered and saved in the app is stored in the users device and is not shared or transmitted elsewhere. 
 
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.

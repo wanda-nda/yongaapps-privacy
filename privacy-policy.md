@@ -8,10 +8,9 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 ### Information Collection and Use  
 We do no require you to provide us with any personally identifiable information. All entered information is stored on device storage and not eccessible to us.
-The app does use third party services that may collect information used to identify you.
-Link to the privacy policy of third-party service providers used by the app
-* https://policies.google.com/privacy
-* https://support.google.com/admob/answer/6128543?hl=en
+
+### Device Storage
+In order to persist user application data and settings between sessions, all information entered and saved in the app is stored in the users device and is not shared or transmitted elsewhere. 
 
 ### Cookies
 Cookies are files with small amount of data that are commonly used as anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.

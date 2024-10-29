@@ -3,11 +3,11 @@ Privacy Policy
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at Yonga Apps, how Yonga Apps uses it, and what choices you have.
-Yonga Apps built the Yonga Budget app as an ad-supported app with an option to upgrade to a premium.
+Yonga Apps built the Yonga Budget app as a free app with an option to upgrade to a premium.
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use  
-We do no require you to provide us with any personally identifiable information. All entered information is stored on device storage and not eccessible to us.
+We do no require you to provide us with any personally identifiable information. All entered information regarding use of the app is stored on device storage and not eccessible to us.
 The app does use third party services that may collect information used to identify you.
 Link to the privacy policy of third-party service providers used by the app
 * https://policies.google.com/privacy
@@ -44,7 +44,7 @@ We want to inform users of this Service that these third parties have access to 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 ### Children’s Privacy
-We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+We do not knowingly collect personal identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.

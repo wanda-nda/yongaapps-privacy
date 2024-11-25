@@ -7,14 +7,18 @@ Yonga Apps built the Yonga Budget app as a free app with an option to upgrade to
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use  
-We do no require you to provide us with any personally identifiable information. All entered information regarding use of the app is stored on device storage and not eccessible to us.
+For a better experience, while using the Service, we may require you to provide us with certain personally identifiable information.
 The app does use third party services that may collect information used to identify you.
 Link to the privacy policy of third-party service providers used by the app
 * https://policies.google.com/privacy
-* https://support.google.com/admob/answer/6128543?hl=en
+* https://www.google.com/analytics/terms/
+* https://firebase.google.com/support/privacy
 
-### Device Storage
-In order to persist user application data and settings between sessions, all information entered and saved in the app is stored in the users device and is not shared or transmitted elsewhere. 
+### Authentication via Google account
+If you choose to authenticate within the app with your Google account, the app has access to your email address, name, and profile picture. Yonga Budget only uses your email as a way to uniquely identify your account and doesn't store or use any other data.
+
+### Google
+If selected, Google Drive may be used to synchronize data between your devices. Please check privacy policy https://policies.google.com/privacy
 
 ### Cookies
 Cookies are files with small amount of data that are commonly used as anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
@@ -31,8 +35,9 @@ We collect information from your device in some cases. The information will be u
 Our Service may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site.
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third party sites or services.
 
-### Service Providers
-We may employ third-party companies and individuals due to the following reasons:
+### We don’t sell or rent your information to third parties
+We do not sell or rent your contact information or other personally identifiable information to third parties. 
+We may only share Personal Information with third-party companies and individuals due to the following reasons:
 * To facilitate our Service;
 * To provide the Service on our behalf;
 * To perform Service-related services; or
